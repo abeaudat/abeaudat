@@ -16,8 +16,9 @@ Currently based in Bangkok, Thailand.
 I enjoy making products more reliable, spotting edge cases, and helping teams ship with confidence.  
 Outside of work, I like exploring Bangkok, good food, and tech side projects.  
 
-## Get in Touch
-- 📧 [arnaud@beaudat.com](mailto:arnaud@beaudat.com)  
-- 🌐 [beaudat.com](https://beaudat.com)  
-- 🏢 [Bamii Studio](https://bamii-studio.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/abeaudat)  
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-arnaud@beaudat.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnaud@beaudat.com)  
+[![Website](https://img.shields.io/badge/Website-beaudat.com-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://beaudat.com)  
+[![Bamii Studio](https://img.shields.io/badge/Bamii_Studio-bamii--studio.com-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bamii-studio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abeaudat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abeaudat)  
