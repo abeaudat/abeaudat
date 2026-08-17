@@ -1,24 +1,56 @@
-# Arnaud Beaudat
+<h1 align="center">Hi 👋, I'm Arnaud Beaudat</h1>
 
-## ⭐ **Senior QA Engineer | QA Automation & Product Quality | Web3, SaaS & Building Scalable Digital Products**
+<h3 align="center">
+Senior QA Engineer · QA Automation · Web Consultant
+</h3>
 
-Hi 👋 I'm Arnaud, a QA engineer with over 10 years of experience in software testing and automation.  
-I’ve built QA processes from scratch, led teams, and worked extensively on Web3 and blockchain projects.  
-Currently based in Bangkok, Thailand.  
+<p align="center">
+🇫🇷 French · 🌍 Based in Thailand / Senegal · 💻 Remote Worldwide
+</p>
 
-## What I Do
-- Test automation (Playwright, Cypress, Selenium, Appium)  
-- API and performance testing (Postman, JMeter, k6)  
-- Blockchain/Web3 testing (smart contracts, DeFi apps)  
-- Freelance QA and web consulting for startups and businesses  
+<p align="center">
+10+ years building reliable web & mobile products, QA strategies and test automation.
+<br/>
+Founder & Consultant at <a href="https://bamii-studio.com"><b>Bamii Studio</b></a>.
+</p>
 
-## A Bit More
-I enjoy making products more reliable, spotting edge cases, and helping teams ship with confidence.  
-Outside of work, I like exploring Bangkok, good food, and tech side projects.  
+---
 
-## 📫 Contact
+### 🧪 Stack
 
-[![Email](https://img.shields.io/badge/Email-arnaud@beaudat.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnaud@beaudat.com)  
-[![Website](https://img.shields.io/badge/Website-beaudat.com-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://beaudat.com)  
-[![Bamii Studio](https://img.shields.io/badge/Bamii_Studio-bamii--studio.com-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bamii-studio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abeaudat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnaudbeaudat)  
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+### 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abeaudat&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeaudat&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abeaudat&hide_border=true&theme=transparent" />
+</p>
+
+### 🤝 Connect
+
+<p>
+  <a href="https://linkedin.com/in/arnaudbeaudat">
+    <img src="https://img.shields.io/badge/LinkedIn-Arnaud_Beaudat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://bamii-studio.com">
+    <img src="https://img.shields.io/badge/Bamii_Studio-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:arnaud@beaudat.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
